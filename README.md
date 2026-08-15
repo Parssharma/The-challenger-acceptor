@@ -26,5 +26,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0649-dota2-senate) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
