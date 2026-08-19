@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
