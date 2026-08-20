@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
