@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
