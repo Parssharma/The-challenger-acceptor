@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0649-dota2-senate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0649-dota2-senate) |
 ## Greedy
