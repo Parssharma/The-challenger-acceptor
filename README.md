@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 | [0649-dota2-senate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0649-dota2-senate) |
 ## Greedy
 |  |
@@ -87,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
