@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0138-copy-list-with-random-pointer) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
