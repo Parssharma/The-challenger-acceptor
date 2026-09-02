@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
