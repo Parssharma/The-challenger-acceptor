@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0541-reverse-string-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
