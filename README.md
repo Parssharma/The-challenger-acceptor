@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
