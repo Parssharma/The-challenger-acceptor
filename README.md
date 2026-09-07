@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0541-reverse-string-ii) |
 | [0649-dota2-senate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0686-repeated-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -169,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
