@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1480-running-sum-of-1d-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
