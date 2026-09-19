@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0125-valid-palindrome) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
