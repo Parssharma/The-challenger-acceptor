@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
