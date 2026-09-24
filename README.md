@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
