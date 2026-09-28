@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
 | [0457-circular-array-loop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0457-circular-array-loop) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
