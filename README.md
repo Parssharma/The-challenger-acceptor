@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0344-reverse-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -214,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0118-pascals-triangle) |
 ## Counting
 |  |
