@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1480-running-sum-of-1d-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Parssharma/The-challenger-acceptor/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
