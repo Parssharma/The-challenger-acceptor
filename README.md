@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0136-single-number) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0069-sqrtx) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Parssharma/The-challenger-acceptor/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0678-valid-parenthesis-string) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Counting
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## DP on Trees
 |  |
 | ------- |
@@ -335,8 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Parssharma/The-challenger-acceptor/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Parssharma/The-challenger-acceptor/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
